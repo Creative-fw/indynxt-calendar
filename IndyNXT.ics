@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LGS//IndyNXT Auto-Sync//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Indy NXT
+X-WR-CALDESC:INDY NXT by Firestone (season 2026) - all races\, auto-synced daily from indynxt.com
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:indynxt-2026-st-petersburg@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260301T150000Z
+DTEND:20260301T160000Z
+SUMMARY:🏁 Indy NXT St. Petersburg
+LOCATION:St. Petersburg
+DESCRIPTION:Grand Prix of St. Petersburg - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-arlington@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260315T143000Z
+DTEND:20260315T153000Z
+SUMMARY:🏁 Indy NXT Arlington
+LOCATION:City of Arlington\, Texas
+DESCRIPTION:Grand Prix of Arlington - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-barber-race1@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260328T170000Z
+DTEND:20260328T180000Z
+SUMMARY:🏁 Indy NXT Alabama Race 1
+LOCATION:Barber Motorsports Park
+DESCRIPTION:Grand Prix of Alabama Race 1 - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-barber-race2@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260329T150000Z
+DTEND:20260329T160000Z
+SUMMARY:🏁 Indy NXT Alabama Race 2
+LOCATION:Barber Motorsports Park
+DESCRIPTION:Grand Prix of Alabama Race 2 - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-indianapolis-race1@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260508T200000Z
+DTEND:20260508T210000Z
+SUMMARY:🏁 Indy NXT Indianapolis Grand Prix Race 1
+LOCATION:Indianapolis Motor Speedway
+DESCRIPTION:Indianapolis Grand Prix Race 1 - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-indianapolis-race2@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260509T183000Z
+DTEND:20260509T193000Z
+SUMMARY:🏁 Indy NXT Indianapolis Grand Prix Race 2
+LOCATION:Indianapolis Motor Speedway
+DESCRIPTION:Indianapolis Grand Prix Race 2 - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-detroit@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260531T143000Z
+DTEND:20260531T153000Z
+SUMMARY:🏁 Indy NXT Detroit Grand Prix
+LOCATION:Streets of Detroit
+DESCRIPTION:Detroit Grand Prix - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-wwtr@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260607T213000Z
+DTEND:20260607T223000Z
+SUMMARY:🏁 Indy NXT World Wide Technology Raceway
+LOCATION:World Wide Technology Raceway
+DESCRIPTION:INDY NXT by Firestone at World Wide Technology Raceway - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-road-america-race1@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260620T163000Z
+DTEND:20260620T173000Z
+SUMMARY:🏁 Indy NXT Road America Race 1
+LOCATION:Road America
+DESCRIPTION:Grand Prix at Road America Race 1 - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-road-america-race2@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260621T160000Z
+DTEND:20260621T170000Z
+SUMMARY:🏁 Indy NXT Road America Race 2
+LOCATION:Road America
+DESCRIPTION:Grand Prix at Road America Race 2 - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-mid-ohio-race1@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260704T170000Z
+DTEND:20260704T180000Z
+SUMMARY:🏁 Indy NXT Mid-Ohio Race 1
+LOCATION:Mid-Ohio Sports Car Course
+DESCRIPTION:Grand Prix at Mid-Ohio Race 1 - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-mid-ohio-race2@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260705T140000Z
+DTEND:20260705T150000Z
+SUMMARY:🏁 Indy NXT Mid-Ohio Race 2
+LOCATION:Mid-Ohio Sports Car Course
+DESCRIPTION:Grand Prix at Mid-Ohio Race 2 - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-nashville@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:🏁 Indy NXT Music City Grand Prix (time TBD)
+LOCATION:Nashville Superspeedway
+DESCRIPTION:Music City Grand Prix - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-portland@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260809T180000Z
+DTEND:20260809T190000Z
+SUMMARY:🏁 Indy NXT Portland
+LOCATION:Portland International Raceway
+DESCRIPTION:Grand Prix of Portland - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-milwaukee@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260830T150000Z
+DTEND:20260830T160000Z
+SUMMARY:🏁 Indy NXT Milwaukee Mile
+LOCATION:Milwaukee Mile at the Wisconsin State Fairgrounds
+DESCRIPTION:INDY NXT by Firestone at Milwaukee Mile - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-laguna-seca-race1@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260905T223000Z
+DTEND:20260905T233000Z
+SUMMARY:🏁 Indy NXT Monterey Race 1
+LOCATION:WeatherTech Raceway Laguna Seca
+DESCRIPTION:Grand Prix of Monterey Race 1 - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+BEGIN:VEVENT
+UID:indynxt-2026-laguna-seca-race2@lgs-indynxt
+DTSTAMP:20260612T082316Z
+DTSTART:20260906T163000Z
+DTEND:20260906T173000Z
+SUMMARY:🏁 Indy NXT Monterey Race 2
+LOCATION:WeatherTech Raceway Laguna Seca
+DESCRIPTION:Grand Prix of Monterey Race 2 - Indy NXT season 2026. Times auto-convert to your timezone. Auto-synced daily.
+END:VEVENT
+END:VCALENDAR
