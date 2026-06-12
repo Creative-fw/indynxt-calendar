@@ -1,0 +1,34 @@
+name: Sync Indy NXT Calendar
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Generate IndyNXT.ics
+        run: python indynxt_sync.py IndyNXT.ics
+
+      - name: Commit if changed
+        run: |
+          git config user.name "indynxt-sync-bot"
+          git config user.email "actions@github.com"
+          git add IndyNXT.ics
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Auto-sync Indy NXT calendar $(date -u +%F)"
+            git push
+          fi
